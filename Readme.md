@@ -10,9 +10,7 @@ In the next step the role will create ssh folder under the deployer owner and gr
 
 #### Terms  used in the role.
 
-- master , slave , captain :  These are the nodes of dcos infrastructure and  
-                           
-                           you can  give names of your node as per your infra. 
+- master , slave , captain :  These are the nodes of dcos infrastructure and you can  give names of your node as per your infra. 
                            
 - deployer:   This is the default user that will be used for deploying apps in dcos. 
 
